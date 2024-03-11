@@ -9,10 +9,7 @@ Java
 ## Documentation ##
 The code is documented by **Javadoc**
 
-## Authors ##
-**First part** <br>
+## Author ##
 Lucas Gelgon <br>
 
-**Second part** <br>
-Lucas Gelgon <br>
-Raphaël Desse <br>
+
